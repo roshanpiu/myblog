@@ -69,4 +69,4 @@ theme: cactus-dark
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/roshanpiu/roshan.github.io.git
+  repo: https://github.com/roshanpiu/roshanpiu.github.io.git
