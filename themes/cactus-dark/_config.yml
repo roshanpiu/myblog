@@ -2,9 +2,9 @@ nav:
   Home: /
   About: /about/
   Writing: /archives/
-  Projects: http://github.com/probberechts
+  Projects: http://github.com/roshanpiu
 
-projects_url: http://github.com/probberechts
+projects_url: http://github.com/roshanpiu
 
 customize:
     gravatar:
@@ -27,7 +27,7 @@ customize:
         url: /images/apple-touch-icon.png
         gravator: false
     social_links:
-        github: http://github.com/probberechts/cactus-dark
+        github: http://github.com/roshanpiu
         twitter: /
         facebook: /
         linkedin: /
